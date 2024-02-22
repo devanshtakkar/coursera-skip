@@ -1,4 +1,4 @@
-# skipera
+# coursera-skip
 Module to facilitate skipping Coursera (https://www.coursera.org/) videos.
 
 ## Why?
